@@ -1,2 +1,2 @@
-Codes of paper "Plan Selection via Query Interaction". 
-Codes are comming soon.
+Code of paper "Plan Selection via Query Interaction". 
+Code is comming soon.
