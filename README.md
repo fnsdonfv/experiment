@@ -1,1 +1,2 @@
-Codes of paper "MMQI-EPS: Model for Measurement of Query Interaction and Execution Plan Selection". Codes are comming soon.
+Codes of paper "Plan Selection via Query Interaction". 
+Codes are comming soon.
